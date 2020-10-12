@@ -13,6 +13,7 @@
         <module>tiger-message-rpc</module>
         <module>tiger-message-dao</module>
         <module>tiger-message-common</module>
+        <module>tiger-message-web-center</module>
     </modules>
 
 
